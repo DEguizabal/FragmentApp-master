@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">FragmentApp</string>
+
+    <string-array name="Planets">
+        <item>Sun</item>
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+
+    <string-array name="Distance">
+        <item>0KM</item>
+        <item>100KM</item>
+        <item>1000KM</item>
+        <item>10000KM</item>
+        <item>100000KM</item>
+        <item>1000000KM</item>
+        <item>10000000KM</item>
+        <item>100000000KM</item>
+        <item>1000000000KM</item>
+    </string-array>
+</resources>
